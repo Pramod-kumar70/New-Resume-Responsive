@@ -3,6 +3,9 @@
    
     
 }
+.Shadow{
+    box-shadow: 20px 20px 60px black;
+}
 hr {
     border: none;
     height: 5px;
